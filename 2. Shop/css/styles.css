@@ -20,7 +20,7 @@ body {
 }
 /* --------------- Navbar ---------------- */
 .navbar {
-  position: sticy;
+  position: sticky;
   top: 0;
   height: 60px;
   width: 100%;
