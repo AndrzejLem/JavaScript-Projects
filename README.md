@@ -11,7 +11,7 @@ These are several projects using javascript. Learning of coding with tutorial.
 
 ## List of projects
 * Booklist
-* ComfyHouse
+* Shop - ComfyHouse
 
 ## Technologies
 Project is created with:
